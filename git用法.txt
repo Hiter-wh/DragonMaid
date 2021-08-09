@@ -1,0 +1,20 @@
+
+
+治标不治本：
+ip-git 
+ip-github
+（ip通过查询网站获得）
+
+//===============git clone 镜像源=============//
+
+//这是我们要clone的
+git clone https://github.com/Hackergeek/architecture-samples
+ 
+//使用镜像
+git clone https://github.com.cnpmjs.org/Hackergeek/architecture-samples
+ 
+//或者
+ 
+//使用镜像
+git clone https://git.sdut.me/Hackergeek/architecture-samples
+//============================================//
